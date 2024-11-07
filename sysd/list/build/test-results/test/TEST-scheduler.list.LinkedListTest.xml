@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="scheduler.list.LinkedListTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-12-12T17:20:55" hostname="etu-191-117.vpn-inp.grenoble-inp.fr" time="0.025">
+  <properties/>
+  <testcase name="testAdd()" classname="scheduler.list.LinkedListTest" time="0.019"/>
+  <testcase name="testRemoveMissing()" classname="scheduler.list.LinkedListTest" time="0.001"/>
+  <testcase name="testRemove()" classname="scheduler.list.LinkedListTest" time="0.001"/>
+  <testcase name="testConstructor()" classname="scheduler.list.LinkedListTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

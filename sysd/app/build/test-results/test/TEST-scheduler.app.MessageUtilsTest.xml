@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="scheduler.app.MessageUtilsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-18T14:18:44" hostname="etu-191-32.vpn-inp.grenoble-inp.fr" time="0.013">
+  <properties/>
+  <testcase name="testGetMessage()" classname="scheduler.app.MessageUtilsTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

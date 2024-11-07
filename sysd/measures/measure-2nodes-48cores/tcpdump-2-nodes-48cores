@@ -1,0 +1,102 @@
+17:53:17.541182 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 2715158982:2715158995, ack 2010343642, win 21, options [nop,nop,TS val 3443240794 ecr 716973545], length 13
+17:53:17.541182 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 13:1153, ack 1, win 21, options [nop,nop,TS val 3443240794 ecr 716973545], length 1140
+17:53:17.541583 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 1153, win 22, options [nop,nop,TS val 716988545 ecr 3443240794], length 0
+17:53:24.643630 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [P.], seq 1:14, ack 1153, win 22, options [nop,nop,TS val 716995647 ecr 3443240794], length 13
+17:53:24.643731 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [P.], seq 14:3663, ack 1153, win 22, options [nop,nop,TS val 716995647 ecr 3443240794], length 3649
+17:53:24.643811 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [.], ack 14, win 21, options [nop,nop,TS val 3443247896 ecr 716995647], length 0
+17:53:24.643834 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [.], ack 3663, win 20, options [nop,nop,TS val 3443247897 ecr 716995647], length 0
+17:53:24.844122 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 1153:1174, ack 3663, win 21, options [nop,nop,TS val 3443248097 ecr 716995647], length 21
+17:53:24.844325 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 1174:2770, ack 3663, win 21, options [nop,nop,TS val 3443248097 ecr 716995647], length 1596
+17:53:24.844412 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 2770, win 22, options [nop,nop,TS val 716995848 ecr 3443248097], length 0
+17:53:24.849587 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [P.], seq 3663:3684, ack 2770, win 22, options [nop,nop,TS val 716995853 ecr 3443248097], length 21
+17:53:24.849638 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [.], ack 3684, win 21, options [nop,nop,TS val 3443248102 ecr 716995853], length 0
+17:53:24.849667 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [P.], seq 3684:3731, ack 2770, win 22, options [nop,nop,TS val 716995853 ecr 3443248102], length 47
+17:53:24.849707 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [.], ack 3731, win 21, options [nop,nop,TS val 3443248102 ecr 716995853], length 0
+17:53:32.541117 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 2770:2783, ack 3731, win 21, options [nop,nop,TS val 3443255794 ecr 716995853], length 13
+17:53:32.541181 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 2783:3923, ack 3731, win 21, options [nop,nop,TS val 3443255794 ecr 716995853], length 1140
+17:53:32.541367 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 3923, win 22, options [nop,nop,TS val 717003545 ecr 3443255794], length 0
+17:53:47.541071 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 3923:3936, ack 3731, win 21, options [nop,nop,TS val 3443270794 ecr 717003545], length 13
+17:53:47.541124 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 3936:5076, ack 3731, win 21, options [nop,nop,TS val 3443270794 ecr 717003545], length 1140
+17:53:47.541297 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 5076, win 22, options [nop,nop,TS val 717018545 ecr 3443270794], length 0
+17:54:02.540987 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 5076:5089, ack 3731, win 21, options [nop,nop,TS val 3443285794 ecr 717018545], length 13
+17:54:02.541049 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 5089:6229, ack 3731, win 21, options [nop,nop,TS val 3443285794 ecr 717018545], length 1140
+17:54:02.541186 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 6229, win 22, options [nop,nop,TS val 717033545 ecr 3443285794], length 0
+17:54:17.541030 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 6229:6242, ack 3731, win 21, options [nop,nop,TS val 3443300794 ecr 717033545], length 13
+17:54:17.541069 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 6242:7382, ack 3731, win 21, options [nop,nop,TS val 3443300794 ecr 717033545], length 1140
+17:54:17.541277 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 7382, win 22, options [nop,nop,TS val 717048545 ecr 3443300794], length 0
+17:54:32.541120 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 7382:7395, ack 3731, win 21, options [nop,nop,TS val 3443315794 ecr 717048545], length 13
+17:54:32.541148 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 7395:8535, ack 3731, win 21, options [nop,nop,TS val 3443315794 ecr 717048545], length 1140
+17:54:32.541313 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 8535, win 22, options [nop,nop,TS val 717063545 ecr 3443315794], length 0
+17:54:47.541282 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 8535:8548, ack 3731, win 21, options [nop,nop,TS val 3443330794 ecr 717063545], length 13
+17:54:47.541320 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 8548:9688, ack 3731, win 21, options [nop,nop,TS val 3443330794 ecr 717063545], length 1140
+17:54:47.541467 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 9688, win 22, options [nop,nop,TS val 717078545 ecr 3443330794], length 0
+17:55:02.541938 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 9688:9701, ack 3731, win 21, options [nop,nop,TS val 3443345794 ecr 717078545], length 13
+17:55:02.541974 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 9701:10841, ack 3731, win 21, options [nop,nop,TS val 3443345794 ecr 717078545], length 1140
+17:55:02.542201 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 10841, win 22, options [nop,nop,TS val 717093546 ecr 3443345794], length 0
+17:55:17.541677 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 10841:10854, ack 3731, win 21, options [nop,nop,TS val 3443360794 ecr 717093546], length 13
+17:55:17.541705 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 10854:11994, ack 3731, win 21, options [nop,nop,TS val 3443360794 ecr 717093546], length 1140
+17:55:17.541826 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 11994, win 22, options [nop,nop,TS val 717108546 ecr 3443360794], length 0
+17:55:32.542439 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 11994:12007, ack 3731, win 21, options [nop,nop,TS val 3443375794 ecr 717108546], length 13
+17:55:32.542439 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 12007:13147, ack 3731, win 21, options [nop,nop,TS val 3443375794 ecr 717108546], length 1140
+17:55:32.542666 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 13147, win 22, options [nop,nop,TS val 717123546 ecr 3443375794], length 0
+17:55:47.542215 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 13147:13160, ack 3731, win 21, options [nop,nop,TS val 3443390794 ecr 717123546], length 13
+17:55:47.542264 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 13160:14300, ack 3731, win 21, options [nop,nop,TS val 3443390794 ecr 717123546], length 1140
+17:55:47.542467 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 14300, win 22, options [nop,nop,TS val 717138546 ecr 3443390794], length 0
+17:56:02.541902 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 14300:14313, ack 3731, win 21, options [nop,nop,TS val 3443405794 ecr 717138546], length 13
+17:56:02.541941 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 14313:15453, ack 3731, win 21, options [nop,nop,TS val 3443405794 ecr 717138546], length 1140
+17:56:02.542116 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 15453, win 22, options [nop,nop,TS val 717153546 ecr 3443405794], length 0
+17:56:17.542081 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 15453:15466, ack 3731, win 21, options [nop,nop,TS val 3443420794 ecr 717153546], length 13
+17:56:17.542081 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 15466:16606, ack 3731, win 21, options [nop,nop,TS val 3443420794 ecr 717153546], length 1140
+17:56:17.542261 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 16606, win 22, options [nop,nop,TS val 717168546 ecr 3443420794], length 0
+17:56:32.542123 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 16606:16619, ack 3731, win 21, options [nop,nop,TS val 3443435794 ecr 717168546], length 13
+17:56:32.542124 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 16619:17759, ack 3731, win 21, options [nop,nop,TS val 3443435794 ecr 717168546], length 1140
+17:56:32.542366 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 17759, win 22, options [nop,nop,TS val 717183546 ecr 3443435794], length 0
+17:56:47.542379 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 17759:17772, ack 3731, win 21, options [nop,nop,TS val 3443450794 ecr 717183546], length 13
+17:56:47.542414 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 17772:18912, ack 3731, win 21, options [nop,nop,TS val 3443450794 ecr 717183546], length 1140
+17:56:47.542618 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 18912, win 22, options [nop,nop,TS val 717198546 ecr 3443450794], length 0
+17:57:02.542283 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 18912:18925, ack 3731, win 21, options [nop,nop,TS val 3443465794 ecr 717198546], length 13
+17:57:02.542333 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 18925:20065, ack 3731, win 21, options [nop,nop,TS val 3443465794 ecr 717198546], length 1140
+17:57:02.542520 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 20065, win 22, options [nop,nop,TS val 717213546 ecr 3443465794], length 0
+17:57:17.542279 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 20065:20078, ack 3731, win 21, options [nop,nop,TS val 3443480794 ecr 717213546], length 13
+17:57:17.542341 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 20078:21218, ack 3731, win 21, options [nop,nop,TS val 3443480794 ecr 717213546], length 1140
+17:57:17.542576 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 21218, win 22, options [nop,nop,TS val 717228546 ecr 3443480794], length 0
+17:57:32.542442 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 21218:21231, ack 3731, win 21, options [nop,nop,TS val 3443495794 ecr 717228546], length 13
+17:57:32.542470 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 21231:22371, ack 3731, win 21, options [nop,nop,TS val 3443495794 ecr 717228546], length 1140
+17:57:32.542755 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 22371, win 22, options [nop,nop,TS val 717243546 ecr 3443495794], length 0
+17:57:47.542530 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 22371:22384, ack 3731, win 21, options [nop,nop,TS val 3443510794 ecr 717243546], length 13
+17:57:47.542569 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 22384:23524, ack 3731, win 21, options [nop,nop,TS val 3443510794 ecr 717243546], length 1140
+17:57:47.542785 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 23524, win 22, options [nop,nop,TS val 717258547 ecr 3443510794], length 0
+17:58:02.542537 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 23524:23537, ack 3731, win 21, options [nop,nop,TS val 3443525794 ecr 717258547], length 13
+17:58:02.542620 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 23537:24677, ack 3731, win 21, options [nop,nop,TS val 3443525794 ecr 717258547], length 1140
+17:58:02.542742 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 24677, win 22, options [nop,nop,TS val 717273546 ecr 3443525794], length 0
+17:58:17.542656 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 24677:24690, ack 3731, win 21, options [nop,nop,TS val 3443540794 ecr 717273546], length 13
+17:58:17.542703 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 24690:25830, ack 3731, win 21, options [nop,nop,TS val 3443540794 ecr 717273546], length 1140
+17:58:17.542862 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 25830, win 22, options [nop,nop,TS val 717288547 ecr 3443540794], length 0
+17:58:32.542868 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 25830:25843, ack 3731, win 21, options [nop,nop,TS val 3443555794 ecr 717288547], length 13
+17:58:32.542899 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 25843:26983, ack 3731, win 21, options [nop,nop,TS val 3443555794 ecr 717288547], length 1140
+17:58:32.543055 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 26983, win 22, options [nop,nop,TS val 717303547 ecr 3443555794], length 0
+17:58:47.542639 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 26983:26996, ack 3731, win 21, options [nop,nop,TS val 3443570794 ecr 717303547], length 13
+17:58:47.542689 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 26996:28136, ack 3731, win 21, options [nop,nop,TS val 3443570794 ecr 717303547], length 1140
+17:58:47.542879 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 28136, win 22, options [nop,nop,TS val 717318547 ecr 3443570794], length 0
+17:59:02.542705 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 28136:28149, ack 3731, win 21, options [nop,nop,TS val 3443585794 ecr 717318547], length 13
+17:59:02.542742 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 28149:29289, ack 3731, win 21, options [nop,nop,TS val 3443585794 ecr 717318547], length 1140
+17:59:02.542921 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 29289, win 22, options [nop,nop,TS val 717333547 ecr 3443585794], length 0
+17:59:17.543014 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 29289:29302, ack 3731, win 21, options [nop,nop,TS val 3443600794 ecr 717333547], length 13
+17:59:17.543065 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 29302:30442, ack 3731, win 21, options [nop,nop,TS val 3443600794 ecr 717333547], length 1140
+17:59:17.543219 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 30442, win 22, options [nop,nop,TS val 717348547 ecr 3443600794], length 0
+17:59:32.542853 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 30442:30455, ack 3731, win 21, options [nop,nop,TS val 3443615794 ecr 717348547], length 13
+17:59:32.542895 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 30455:31595, ack 3731, win 21, options [nop,nop,TS val 3443615794 ecr 717348547], length 1140
+17:59:32.543067 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 31595, win 22, options [nop,nop,TS val 717363547 ecr 3443615794], length 0
+17:59:47.542884 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 31595:31608, ack 3731, win 21, options [nop,nop,TS val 3443630794 ecr 717363547], length 13
+17:59:47.542922 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 31608:32748, ack 3731, win 21, options [nop,nop,TS val 3443630794 ecr 717363547], length 1140
+17:59:47.543107 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 32748, win 22, options [nop,nop,TS val 717378547 ecr 3443630794], length 0
+18:00:02.542898 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 32748:32761, ack 3731, win 21, options [nop,nop,TS val 3443645793 ecr 717378547], length 13
+18:00:02.542924 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 32761:33901, ack 3731, win 21, options [nop,nop,TS val 3443645794 ecr 717378547], length 1140
+18:00:02.543134 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 33901, win 22, options [nop,nop,TS val 717393547 ecr 3443645793], length 0
+18:00:17.543017 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 33901:33914, ack 3731, win 21, options [nop,nop,TS val 3443660794 ecr 717393547], length 13
+18:00:17.543046 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 33914:35054, ack 3731, win 21, options [nop,nop,TS val 3443660794 ecr 717393547], length 1140
+18:00:17.543238 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 35054, win 22, options [nop,nop,TS val 717408547 ecr 3443660794], length 0
+18:00:32.543162 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 35054:35067, ack 3731, win 21, options [nop,nop,TS val 3443675794 ecr 717408547], length 13
+18:00:32.543236 IP taurus-5.lyon.grid5000.fr.51866 > taurus-13.lyon.grid5000.fr.7077: Flags [P.], seq 35067:36207, ack 3731, win 21, options [nop,nop,TS val 3443675794 ecr 717408547], length 1140
+18:00:32.543462 IP taurus-13.lyon.grid5000.fr.7077 > taurus-5.lyon.grid5000.fr.51866: Flags [.], ack 36207, win 22, options [nop,nop,TS val 717423547 ecr 3443675794], length 0
+

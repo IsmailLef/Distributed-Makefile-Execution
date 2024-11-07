@@ -1,0 +1,1 @@
+spark-submit --class scheduler.app.App --master spark://$SPARK_MASTER_NODE:7077 --num-executors $$$NUMBER_OF_EXECUTORS --deploy-mode cluster app.jar $$$PATH_TO_MAKEFILE $SPARK_MASTER_NODE $$$NUMBER_OF_EXECUTORS
